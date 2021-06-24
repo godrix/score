@@ -29,7 +29,6 @@ export function Home() {
           [scoreType]:prev[scoreType]+1
         }
       });
-      console.log('lado direito')
     }
     
   };
