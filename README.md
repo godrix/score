@@ -1,1 +1,3 @@
 # score
+
+Aplicativo utilizando expo
